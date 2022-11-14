@@ -7,16 +7,6 @@ Detection of skin disease is one of the major problems in the medical industry a
 <br><br>
 Identification of skin diseases is done using image analysis and Convolutional Neural Networks. It is found that by using the Convolutional neural networks we can achieve a higher accuracy rate. 
 
-### 💡 Project for Sale:
-#### 🤝 Contact to Buy:
- Email: v.snehith999@gmail.com <br>
- LinkedIn: [snehitvaddi](https://www.linkedin.com/in/snehitvaddi/)
-##### What do you get:
-
-* Code for CNN Training, & testing
-* Application code(Flask, HTML, CSS, Js) 
-* Complete Documentation
-* PPT
 ### Data:
 * Skin Cancer ISIC: https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic
 ### Technologies Used:
